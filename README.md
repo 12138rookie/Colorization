@@ -44,4 +44,3 @@ python setup.py develop
         DATA.CENTER_CROP: whether to center crop the input images.
                           This flag and DATA.FULL_RES_OUTPUT flag can not be both set to True
     ```
-3. If everything goes well, you will get the results similar as [visual_results.md](visual_results_in_the_wild.md).
